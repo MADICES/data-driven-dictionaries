@@ -16,10 +16,10 @@ The scientific questions we can, hopefully, answer are:
 
 ## tools to read papers and create dictionaries
 
-### pyamiimage
+### [pyamiimage](https://github.com/petermr/pyamiimage)
 `pyamiimage`  extracts text from images. This can be useful for common axial labels in graphs, or for legands (what the substances are
 
-### docanalysis 
+### [docanalysis](https://github.com/petermr/docanalysis) 
 
 extract words and phrases from text. The most immediate would be figure captions and tables captions
 
